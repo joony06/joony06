@@ -11,7 +11,7 @@ nice to meet you
 
 ---
 
-### 🔭 Currently
+### Currently
 
 - learning web hacking on Dreamhack, working toward CTFs
 - SKKU OpenAI Student Collective
