@@ -4,8 +4,8 @@
 
 > I build things people actually use — and keep them running.
 
-**SKKU Global Business Administration** · GBA Student Council (17th)<br>
-**Hanil High School** · Student Council (36th) · Minister of Information<br>
+**SKKU Global Business Administration** · GBA Student Council (17th, 18th) · Director of Administration and Welfare <br>
+**Hanil High School** · Student Council (36th) · Head of Information<br>
 interested in **infosec**, **startups** & **hardware**<br>
 nice to meet you
 
