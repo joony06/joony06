@@ -18,5 +18,5 @@ Hi! I'm Joon, a business student who codes. Nice to meet you 👋
 ### 🔭 Currently
 
 - Learning web hacking on Dreamhack, working toward CTFs
-- Member of SKKU OpenAI Student Collective
+- SKKU OpenAI Student Collective
 - Planning a double major in Electrical & Electronic Engineering
