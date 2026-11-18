@@ -1,18 +1,22 @@
-## Hi!
-
 # AePhroDeChi.
 
 > I build things people actually use — and keep them running.
 
-**SKKU Global Business Administration** · GBA Student Council (17th, 18th) · Director of Administration and Welfare <br>
-**Hanil High School** · Student Council (36th) · Head of Information<br>
-interested in **infosec**, **startups** & **hardware**<br>
-nice to meet you
+Hi! I'm Joon, a business student who codes. Nice to meet you 👋
 
----
+### 🎓 Education & Roles
 
-### Currently
+- **Sungkyunkwan University (SKKU)** — Global Business Administration
+  - GBA Student Council (17th, 18th) · Director of Administration and Welfare
+- **Hanil High School**
+  - Student Council (36th) · Head of Information
 
-- learning web hacking on Dreamhack, working toward CTFs
-- SKKU OpenAI Student Collective
-- planning a double major in Electrical & Electronic Engineering
+### 💡 Interests
+
+`infosec` · `startups` · `hardware`
+
+### 🔭 Currently
+
+- Learning web hacking on Dreamhack, working toward CTFs
+- Member of SKKU OpenAI Student Collective
+- Planning a double major in Electrical & Electronic Engineering
