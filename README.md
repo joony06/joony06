@@ -10,11 +10,6 @@ nice to meet you
 
 ---
 
-### 🛠 What I've built
-
-- **SeRMA** — seminar room management automation for our student council
-  Google Sheets + Apps Script dashboard, with auto SMS via a Python/iMessage worker (**SeSMA**)
-
 ### 🔭 Currently
 
 - learning web hacking on Dreamhack, working toward CTFs
